@@ -69,11 +69,6 @@ The app was built with a component-based architecture to ensure scalability, mai
 
 ## 📸 Screenshots
 
-## 📸 Screenshots
-
-## 📸 Screenshots
-## 📸 Screenshots
-
 <table>
 <tr>
 <td align="center"><b>Home Screen</b></td>
