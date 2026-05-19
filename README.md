@@ -69,10 +69,18 @@ The app was built with a component-based architecture to ensure scalability, mai
 
 ## 📸 Screenshots
 
-| Home | Filters |
-|------|------|
-| ![](assets/screenshots/home.png) | ![](assets/screenshots/filters.png) |
+## 📸 Screenshots
 
-| Yoga Course | Favorites |
-|------|------|
-| ![](assets/screenshots/yoga-course.png) | ![](assets/screenshots/favorites.png) |
+## 📸 Screenshots
+
+| Login Screen | Sign Up Screen |
+|---|---|
+| ![](FitnessApp/src/assets/Images/screenshots/1.png) | ![](FitnessApp/src/assets/Images/screenshots/2.png) |
+
+| Home Screen | Workout Filters |
+|---|---|
+| ![](FitnessApp/src/assets/Images/screenshots/3.png) | ![](FitnessApp/src/assets/Images/screenshots/4.png) |
+
+| Beginner Yoga Course | Favorites Page |
+|---|---|
+| ![](FitnessApp/src/assets/Images/screenshots/5.png) | ![](FitnessApp/src/assets/Images/screenshots/6.png) |
