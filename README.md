@@ -69,10 +69,34 @@ The app was built with a component-based architecture to ensure scalability, mai
 
 ## 📸 Screenshots
 
-| Home | Filters |
-|------|------|
-| ![](assets/screenshots/home.png) | ![](assets/screenshots/filters.png) |
+<table>
+<tr>
+<td align="center"><b>Home Screen</b></td>
+<td align="center"><b>Course Details</b></td>
+</tr>
 
-| Yoga Course | Favorites |
-|------|------|
-| ![](assets/screenshots/yoga-course.png) | ![](assets/screenshots/favorites.png) |
+<tr>
+<td><img src="FitnessApp/src/assets/Images/screenshots/5.jpg" width="250"/></td>
+<td><img src="FitnessApp/src/assets/Images/screenshots/2.png" width="250"/></td>
+</tr>
+
+<tr>
+<td align="center"><b>Exercise Details</b></td>
+<td align="center"><b>Favorites Page</b></td>
+</tr>
+
+<tr>
+<td><img src="FitnessApp/src/assets/Images/screenshots/6.jpg" width="250"/></td>
+<td><img src="FitnessApp/src/assets/Images/screenshots/1.png" width="250"/></td>
+</tr>
+
+<tr>
+<td align="center" colspan="2"><b>Finished Course</b></td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+<img src="FitnessApp/src/assets/Images/screenshots/4.jpg" width="250"/>
+</td>
+</tr>
+</table>
